@@ -1,0 +1,14 @@
+C:\Users\ivuqa\source\repos\LABTasktwo\LABTasktwo\bin\Debug\netcoreapp3.1\LABTasktwo.exe
+C:\Users\ivuqa\source\repos\LABTasktwo\LABTasktwo\bin\Debug\netcoreapp3.1\LABTasktwo.deps.json
+C:\Users\ivuqa\source\repos\LABTasktwo\LABTasktwo\bin\Debug\netcoreapp3.1\LABTasktwo.runtimeconfig.json
+C:\Users\ivuqa\source\repos\LABTasktwo\LABTasktwo\bin\Debug\netcoreapp3.1\LABTasktwo.runtimeconfig.dev.json
+C:\Users\ivuqa\source\repos\LABTasktwo\LABTasktwo\bin\Debug\netcoreapp3.1\LABTasktwo.dll
+C:\Users\ivuqa\source\repos\LABTasktwo\LABTasktwo\bin\Debug\netcoreapp3.1\LABTasktwo.pdb
+C:\Users\ivuqa\source\repos\LABTasktwo\LABTasktwo\obj\Debug\netcoreapp3.1\LABTasktwo.csproj.AssemblyReference.cache
+C:\Users\ivuqa\source\repos\LABTasktwo\LABTasktwo\obj\Debug\netcoreapp3.1\LABTasktwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivuqa\source\repos\LABTasktwo\LABTasktwo\obj\Debug\netcoreapp3.1\LABTasktwo.AssemblyInfoInputs.cache
+C:\Users\ivuqa\source\repos\LABTasktwo\LABTasktwo\obj\Debug\netcoreapp3.1\LABTasktwo.AssemblyInfo.cs
+C:\Users\ivuqa\source\repos\LABTasktwo\LABTasktwo\obj\Debug\netcoreapp3.1\LABTasktwo.csproj.CoreCompileInputs.cache
+C:\Users\ivuqa\source\repos\LABTasktwo\LABTasktwo\obj\Debug\netcoreapp3.1\LABTasktwo.dll
+C:\Users\ivuqa\source\repos\LABTasktwo\LABTasktwo\obj\Debug\netcoreapp3.1\LABTasktwo.pdb
+C:\Users\ivuqa\source\repos\LABTasktwo\LABTasktwo\obj\Debug\netcoreapp3.1\LABTasktwo.genruntimeconfig.cache
